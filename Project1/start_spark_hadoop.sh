@@ -1,1 +1,1 @@
- sudo docker-compose -f  docker_compose_spark_hadoop.yml up -d
+docker-compose -f  docker_compose_spark_hadoop.yml up -d
